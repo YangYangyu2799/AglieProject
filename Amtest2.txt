@@ -1,0 +1,17 @@
+1. D. Giving the rest of the organization guidance on understanding Scrum and working with the team
+2. A. Status
+3. D. She does not have the authority to adequately fill her Product Owner role
+4. B. When every item to be delivered meets its definition of “Done” and the Product Owner accepts it
+5. A. Everyone on the team feels personally responsible for delivering the entire Increment, not just their individual parts of it
+6. B. Product Backlog
+7. C. Sprint Retrospective
+8. C. When the timebox expires
+9. B. What planned work did I fail to accomplish?
+10. D. Focus
+11. C. The Sprint Goal
+12. D. Inspection
+13. A. The items from the Sprint Backlog that the team actually completes during the Sprint
+14. D. Holding a retrospective
+15. A. Update the Product Backlog
+16. B. The team decomposes Sprint Backlog items into tasks
+17. A. The Product Backlog is updated to reflect what will probably be in the next Sprint

@@ -1,0 +1,17 @@
+1. C. The project needs better change control and requirements management practices
+2. C. Project Manager
+3. A. Demand a meeting with the user, because agile teams recognize that face-to-face conversation is the most efficient and effective method of conveying information
+4. A. It does what the users need it to do
+5. C. It contains values that establish an agile mindset
+6. B. Sprints
+7. C. Customer collaboration over contract negotiation
+8. C. Waterfall
+9. B. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done
+10. B. Satisfying the customer by delivering valuable software early and often
+11. B. It’s the same thing as a status meeting
+12. A. Maximizing the work not done
+13. D. Work with the team on changing their mindset
+14. D. Responding to change over following a plan
+15. A. It gives the team a way to explain a missed deadline
+16. A. It contains the final version of all features
+17. A. The team must finish all planned work by the end of an iteration
